@@ -5,3 +5,7 @@ function feature() {
 function feature2() {
   console.log('Noch ein Feature!!!');
 }
+
+function onlineEditing(){
+  console.log('Aus dem Browser!');
+}
